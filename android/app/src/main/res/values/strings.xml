@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">appMemes</string>
+    <string name="facebook_app_id">5742355789124933</string>
+    <string name="fb_login_protocol_scheme">fb5742355789124933</string>
+    <string name="facebook_client_token">7b32ffec367bd9d80cefcfa9d149e7e6</string>
+</resources>
